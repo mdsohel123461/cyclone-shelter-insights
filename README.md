@@ -44,7 +44,7 @@ The project utilizes a primary dataset consisting of household surveys from coas
 ### 1. Demographic Distribution
 The study captured a significant female perspective (56.2%), ensuring gender-specific challenges are accurately represented.
 
-![Age Distribution](F:\Data_Analyst_work\Gender_based_cyclone_shelter_analysis\Analysis_result/age_distribution.png)
+![Age Distribution](https://github.com/user/repo/blob/main/Analysis_result/age_distribution.png)
 
 ### 2. Primary Deterrents to Evacuation
 Overcrowding, lack of privacy, and poor sanitation were identified as the leading reasons women avoid shelters.
