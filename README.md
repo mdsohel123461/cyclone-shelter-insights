@@ -48,27 +48,27 @@ The study captured a significant female perspective (56.2%), ensuring gender-spe
 ### 2. Primary Deterrents to Evacuation
 Overcrowding, lack of privacy, and poor sanitation were identified as the leading reasons women avoid shelters.
 
-![Gender Barriers](Analysis_result/gender_based_barriers_fixed.png)
+[Gender Barriers](output-analysis-images/gender_based_barriers_fixed.png)
 
 ### 3. Safety vs. Comfort
 While most respondents feel shelters are physically safe, the qualitative environment—specifically sanitation—creates a barrier for women across all age groups.
 
-![Safety Perception](Analysis_result/is_women_feel_safe.png)
-![Sanitation Barriers](Analysis_result/age_gender_distribution.png)
+[Safety Perception](output-analysis-images/is_women_feel_safe.png)
+[Sanitation Barriers](output-analysis-images/age_gender_distribution.png)
 
 ## Dashboard/Model/Output
 
 ### Socio-Economic Correlation
 Statistical analysis reveals a moderate correlation ($0.46$) between household size and access difficulty, with lower-income households reporting the highest difficulty.
 
-![Correlation Heatmap](Analysis_result/correlation_heatmap_45_both_axes.png)
-![Income vs Difficulty](Analysis_result/income_vs_difficulty_professional(1).png)
+[Correlation Heatmap](output-analysis-images/correlation_heatmap_45_both_axes.png)
+[Income vs Difficulty](output-analysis-images/income_vs_difficulty_professional(1).png)
 
 ### Decision-Making Authority
 In 55.2% of households, the male head of household makes the final evacuation decision, though 44.8% report joint decision-making.
 
-![Decision Authority](Analysis_result/distribution_of_decision_making_authority.png)
-![Agency Analysis](Analysis_result/agency_analysis.png)
+[Decision Authority](output-analysis-images/distribution_of_decision_making_authority.png)
+[Agency Analysis](output-analysis-images/agency_analysis.png)
 
 ## Results & Conclusion
 The study concludes that physical proximity to a shelter is insufficient if privacy and sanitation needs are unmet. To increase evacuation rates, infrastructure must be gender-mainstreamed and asset protection strategies (for livestock) must be integrated.
