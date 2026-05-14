@@ -86,4 +86,4 @@ Mail: ug2306062@esdm.pstu.ac.bd
 
 WhatsApp: 01756012047
 
-Linkedin: [Visit](https://www.linkedin.com/in/mdsohel-gisanalyst/)
+[Visit My LinkedIn Profile](https://www.linkedin.com/in/mdsohel-gisanalyst/)
